@@ -2,11 +2,6 @@ body {
   font-family: "Lato", sans-serif;
 }
 
-#menu {
-  font-size: 30px;
-  margin-right: 100px;
-}
-
 .sidenav {
   height: 100%;
   width: 0;
@@ -39,4 +34,9 @@ body {
   right: 25px;
   font-size: 36px;
   margin-left: 50px;
+}
+
+#menu {
+  font-size: 30px;
+  margin-right: 100px;
 }
