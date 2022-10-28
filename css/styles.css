@@ -1,0 +1,27 @@
+/* general stylesheet - applied to all pages */
+
+body {
+    font-family: sans-serif;
+    margin: auto;
+    width: 60%;
+    padding: 20px;
+}
+
+h1 {
+    color: #6667AB;
+}
+
+h2 {
+    border-bottom: 3px solid #6667AB;
+    padding-bottom: 3px;
+}
+
+
+p {
+    line-height: 22px;
+    margin-bottom: 30px;
+}
+
+ul {
+    list-style-type: circle;
+}
