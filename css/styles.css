@@ -2,5 +2,11 @@
 
 body {
     font-family: sans-serif;
-    margin: 50 auto;
+    margin: auto;
+    width: 60%;
+    padding: 20px;
+}
+
+h2 {
+    border-bottom: 3px solid #6667AB;
 }
