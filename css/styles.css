@@ -199,5 +199,23 @@ nav.show {
 }
 
 
+/* footer */
+
+footer {
+    background-color: #0288d1;
+    height: 10%;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    padding: 10px;
+}
+
+footer p {
+    text-align: center;
+    color: white;
+
+}
+
+
 
 
