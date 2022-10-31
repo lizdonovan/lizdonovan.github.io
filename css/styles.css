@@ -14,12 +14,12 @@ section {
 
 h1 {
     font-size: 70px;
-    color: #6667AB;
+    /*color: #0288d1;*/
     margin-top: 90px;
 }
 
 h2 {
-    border-bottom: 3px solid #6667AB;
+    border-bottom: 3px solid #0288d1;
     padding-bottom: 3px;
 }
 
